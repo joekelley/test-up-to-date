@@ -1,2 +1,2 @@
 # test-up-to-date
-Tets
+Test branch protection.
